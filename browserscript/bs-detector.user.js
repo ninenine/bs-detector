@@ -7,7 +7,7 @@
 // @grant           GM_xmlhttpRequest
 // @updateURL       https://github.com/selfagency/bs-detector/raw/master/greasemonkey/bs-detector.user.js
 // @downloadURL     https://github.com/selfagency/bs-detector/raw/master/greasemonkey/bs-detector.user.js
-// @require         https://raw.githubusercontent.com/selfagency/bs-detector/master/chrome/js/jquery-3.1.1.slim.min.js
+// @require         https://raw.githubusercontent.com/bs-detector/bs-detector/master/ext/js/lib/jquery-3.1.1.slim.min.js
 // ==/UserScript==
 
 // Account for possible jquery conflicts.
